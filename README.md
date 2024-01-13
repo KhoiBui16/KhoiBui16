@@ -1,6 +1,6 @@
 README
 👋 Hi, I’m Anh Khoi
-👀 I’m interested in Machine Learning, AI, natural Language Processing
+👀 I’m interested in Machine Learning, AI, natural Language Processing  
 🌱 I’m currently learning Computer Science at University of Information Technology - Vietnam National University
 📫 How to reach me:
 Email ✉️: khoib1601@gmail.com
