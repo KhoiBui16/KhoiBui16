@@ -1,8 +1,7 @@
 # Hi, I’m Anh Khoi
-My career is Computer Science.
-
-I’m interested in Machine Learning, AI, Natural Language Processing  
 I’m currently learning Computer Science at University of Information Technology - Vietnam National University
+I’m interested in Machine Learning, AI, Natural Language Processing  
+
 - 📫How to reach me:
   + Email ✉️: khoib1601@gmail.com
   + LinkeIn: https://www.linkedin.com/in/khoi-bui-86508b297/
