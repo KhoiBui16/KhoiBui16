@@ -19,13 +19,13 @@ _______________________________________________________________
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhoiBui16&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiBui16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KhoiBui16&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KhoiBui16&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhoiBui16&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 
 
 
