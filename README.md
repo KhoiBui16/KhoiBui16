@@ -11,6 +11,16 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khoi-bui-86508b297/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/23291330/anh-khoi)
 
+### 🔝 Top Repositories
+[![Top Repositories](https://img.shields.io/badge/Top%20Repositories-Explore-brightgreen)](https://github.com/KhoiBui16?tab=repositories)
+
+
+[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=28Tech_contest&theme=dark)](https://github.com/KhoiBui16/28Tech_contest)
+[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Fullhouse_Code_Online&theme=dark)](https://github.com/KhoiBui16/Fullhouse_Code_Online)
+[![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=LCOJ_Code_Online&theme=dark)](https://github.com/KhoiBui16/LCOJ_Code_Online)
+[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Heart_HTML&theme=dark)](https://github.com/KhoiBui16/Heart_HTML)
+
+
 ## 🏆 My Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/khoib1601)
@@ -20,17 +30,22 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![Luyencode](https://img.shields.io/badge/Luyencode-Profile-brightgreen)](https://luyencode.net/user)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhoiBui16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhoiBui16&theme=nightowl&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiBui16&theme=nightowl&hide_border=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=KhoiBui16&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhoiBui16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhoiBui16&theme=nightowl&hide_border=false) <br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiBui16&theme=nightowl&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KhoiBui16&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
 
 
 
