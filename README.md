@@ -20,7 +20,6 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=LCOJ_Code_Online&theme=dark)](https://github.com/KhoiBui16/LCOJ_Code_Online)
 [![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Heart_Source_Code&theme=dark)](https://github.com/KhoiBui16/Heart_Source_Code)
 
-
 ## 🏆 My Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/khoib1601)
