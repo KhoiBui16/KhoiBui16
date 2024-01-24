@@ -1,5 +1,5 @@
 # Hi, I’m Anh Khoi
-I’m currently learning Computer Science at University of Information Technology - Vietnam National University. 
+I’m currently learning Computer Science at University of Information Technology - Vietnam National University Ho Chi Minh city
 
 I’m interested in Machine Learning, AI, Natural Language Processing.  
 
