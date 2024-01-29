@@ -18,7 +18,7 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=28Tech_Code_Online&theme=dark)](https://github.com/KhoiBui16/28Tech_Code_Online)
 [![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Fullhouse_Code_Online&theme=dark)](https://github.com/KhoiBui16/Fullhouse_Code_Online)
 [![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=LCOJ_Code_Online&theme=dark)](https://github.com/KhoiBui16/LCOJ_Code_Online)
-[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Heart_Source_Code&theme=dark)](https://github.com/KhoiBui16/Heart_Source_Code)
+[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Heart_Source_Code&theme=dark)](https://github.com/KhoiBui16/Heart_Source_Code)  
 
 ## 🏆 My Coding Profiles
 
@@ -27,6 +27,8 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/KhoiBui-VN/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brightgreen)](https://www.codechef.com/users/khoibui)
 [![Luyencode](https://img.shields.io/badge/Luyencode-Profile-brightgreen)](https://luyencode.net/user)
+
+<a href="https://app.daily.dev/khoibui"><img src="https://api.daily.dev/devcards/1b247ee2d17d475eb9d0b1b65802b234.png?r=wan" width="400" alt="Anh Khôi's Dev Card"/></a>
 
 # 📊 GitHub Stats:
 
