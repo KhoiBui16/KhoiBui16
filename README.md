@@ -27,6 +27,8 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/KhoiBui-VN/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brightgreen)](https://www.codechef.com/users/khoibui)
 [![Luyencode](https://img.shields.io/badge/Luyencode-Profile-brightgreen)](https://luyencode.net/user)
+[![Online Judge Profile](https://img.shields.io/badge/Online%20Judge-Profile-brightgreen)](https://oj.vnoi.info/user)
+
 
 <a href="https://app.daily.dev/khoibui"><img src="https://api.daily.dev/devcards/1b247ee2d17d475eb9d0b1b65802b234.png?r=wan" width="400" alt="Anh Khôi's Dev Card"/></a>
 
