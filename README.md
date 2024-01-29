@@ -11,8 +11,8 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khoi-bui-86508b297/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/23291330/anh-khoi)
 
-### 🔝 Top Repositories
-[![Top Repositories](https://img.shields.io/badge/Top%20Repositories-Explore-brightgreen)](https://github.com/KhoiBui16?tab=repositories)
+### 🔝 My Repositories
+[![My Repositories](https://img.shields.io/badge/Top%20Repositories-Explore-brightgreen)](https://github.com/KhoiBui16?tab=repositories)
 
 
 [![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=28Tech_Code_Online&theme=dark)](https://github.com/KhoiBui16/28Tech_Code_Online)
