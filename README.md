@@ -18,7 +18,7 @@ I'm currently on a journey to unravel the secrets of Computer Science at the Uni
 [![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=28Tech_Code_Online&theme=dark)](https://github.com/KhoiBui16/28Tech_Code_Online)
 [![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Fullhouse_Code_Online&theme=dark)](https://github.com/KhoiBui16/Fullhouse_Code_Online)
 [![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=LCOJ_Code_Online&theme=dark)](https://github.com/KhoiBui16/LCOJ_Code_Online)
-[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Heart_Source_Code&theme=dark)](https://github.com/KhoiBui16/Heart_Source_Code)  
+[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Data_Structure_Algorithm&theme=dark)](https://github.com/KhoiBui16/Data_Structure_Algorithm)  
 
 ## 🏆 My Coding Profiles
 
