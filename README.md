@@ -1,6 +1,6 @@
 # Hi there, I'm Anh Khoi! 👋
 
-Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world of Computer Science at the University of Information Technology, Vietnam National University Ho Chi Minh City.
+Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world of Computer Science at the University of Information Technology, Vietnam National University Ho Chi Minh City. I wan to be MLOps.
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
