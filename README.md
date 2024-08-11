@@ -13,10 +13,7 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat-square&logo=stack-overflow)](https://stackoverflow.com/users/23291330/anh-khoi)
 
 ## 🔝 TOP Repositories:
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=28Tech_Code_Online&theme=dark)](https://github.com/KhoiBui16/28Tech_Code_Online)
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Fullhouse_Code_Online&theme=dark)](https://github.com/KhoiBui16/Fullhouse_Code_Online)
-[![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=LCOJ_Code_Online&theme=dark)](https://github.com/KhoiBui16/LCOJ_Code_Online)
-[![Repository 4](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Data_Structure_Algorithm&theme=dark)](https://github.com/KhoiBui16/Data_Structure_Algorithm)
+
 
 ## 🏆 My Coding Profiles:
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/khoib1601)
