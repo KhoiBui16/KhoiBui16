@@ -6,7 +6,7 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-!Anaconda](https://camo.githubusercontent.com/5de7264a9f6dae3277356a6bb05d1d5ada8be01cc945c156091e4e92006ddae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666c6174266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)
+![Anaconda](https://camo.githubusercontent.com/5de7264a9f6dae3277356a6bb05d1d5ada8be01cc945c156091e4e92006ddae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666c6174266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465)
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:khoib1601@gmail.com)
