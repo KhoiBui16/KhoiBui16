@@ -15,7 +15,6 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:khoib1601@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khoi-bui-86508b297/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat-square&logo=stack-overflow)](https://stackoverflow.com/users/23291330/anh-khoi)
 
 ## 🔝 TOP Repositories:
 
