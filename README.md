@@ -19,15 +19,6 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 ## 🔝 TOP Repositories:
 
 
-## 🏆 My Coding Profiles:
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/khoib1601)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen?style=flat-square&logo=codeforces)](https://codeforces.com/profile/anhkhoi16)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat-square&logo=leetcode)](https://leetcode.com/KhoiBui-VN/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brightgreen?style=flat-square&logo=codechef)](https://www.codechef.com/users/khoibui)
-[![Luyencode](https://img.shields.io/badge/Luyencode-Profile-brightgreen?style=flat-square&logo=leetcode)](https://luyencode.net/user)
-[![Online Judge Profile](https://img.shields.io/badge/Online%20Judge-Profile-brightgreen?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAB/0lEQVR42mNkIBIwUqIF+AcTQwaEmgQ5h+ArZEBbmZSbBgv0B8JFGwBZmgQoIZYIBTGIFj2AjAcuL8AQx6KQROxgQakgQgRu4DGKgZQz6IXIAYwCDMNAIdYAQvwfQCj+OwhEZc3MMIgYgacZAhQz7DAAGYkxHAwmjRgBqDkMjgZQwPxIsjgEIAChB4JiEYgHAgAQW4G1ABED8MsIAOMIgZ4bC3AEwRyEEwBgxQy0AEBIksgRBwYy4AEBmYRhmGDoEAKMhgOyORyQhAFCPcQ6zj8ToEAGxJMwJAEWkiQBmxBpBmwZQmQyJ+VThO4ECaZGhGkY6BqIRJkLIuRGlI0DYhiFRJ0AqEFOg1KlTg1AhAEI5IqEJMKMErIGqKv5yMhOj6xgqz4eSaxZqlgAAG4P/xBHzXVmAAAAAElFTkSuQmCC)](https://oj.vnoi.info/user)
-
-<a href="https://app.daily.dev/khoibui"><img src="https://api.daily.dev/devcards/v2/Rvl6dmWmztjpymCqu7swU.png?type=default&r=33w" width="356" alt="Anh Khôi's Dev Card"/></a>
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhoiBui16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) <br/>
@@ -36,32 +27,6 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KhoiBui16&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
