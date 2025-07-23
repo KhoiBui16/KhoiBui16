@@ -19,19 +19,18 @@ Welcome to my coding universe! 🚀 I'm on a journey to explore the vast world o
 ## 🔝 TOP Repositories:
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Product-Recommendation-System&theme=nightowl)](https://github.com/KhoiBui16/Product-Recommendation-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=face-attendance-app&theme=nightowl)](https://github.com/KhoiBui16/face-attendance-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=catdog-classifier-inference-fastapi&theme=nightowl)](https://github.com/KhoiBui16/catdog-classifier-inference-fastapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Project_Traffic_Sign_Detection&theme=nightowl)](https://github.com/KhoiBui16/Project_Traffic_Sign_Detection)
+
+
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhoiBui16&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhoiBui16&theme=nightowl&hide_border=false) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiBui16&theme=nightowl&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KhoiBui16&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-KhoiBui16/KhoiBui16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
