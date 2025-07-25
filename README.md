@@ -12,8 +12,15 @@
 
 ## 👨‍💻 About Me
 
-> 🚀 I'm Anh Khoi, a passionate Computer Science student at UIT - VNU HCMC.  
-> 💡 My dream: Become an outstanding **AI Engineer** and create impactful, real-world solutions.
+> 👋 Hi, I'm Anh Khoi – a Computer Science student at University of Information Technology (UIT), VNU-HCM.
+> 
+> 🎯 I'm driven by a deep curiosity for Artificial Intelligence, and my long-term goal is to become an AI Engineer capable of solving real-world problems through innovative technologies.
+> 
+> 🧠 I'm especially fascinated by deep learning, computer vision, and reinforcement learning — fields where algorithms mimic human-like perception and decision-making.
+> 
+> 🛠️ I actively build hands-on projects and systems that combine machine learning with practical application, from product recommendation systems to real-time face attendance apps.
+> 
+> 🚀 Beyond just writing code, I care about creating impact, learning continuously, and collaborating with others who share a passion for tech.
 
 ---
 
