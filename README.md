@@ -12,16 +12,17 @@
 
 ## 👨‍💻 About Me
 
-> 👋 Hi, I'm Anh Khoi – a Computer Science student at University of Information Technology (UIT), VNU-HCM.
-> 
-> 🎯 I'm driven by a deep curiosity for Artificial Intelligence, and my long-term goal is to become an AI Engineer capable of solving real-world problems through innovative technologies.
-> 
-> 🧠 I'm especially fascinated by deep learning, computer vision, and reinforcement learning — fields where algorithms mimic human-like perception and decision-making.
-> 
-> 🛠️ I actively build hands-on projects and systems that combine machine learning with practical application, from product recommendation systems to real-time face attendance apps.
-> 
-> 🚀 Beyond just writing code, I care about creating impact, learning continuously, and collaborating with others who share a passion for tech.
+> 👋 Hi, I'm Anh Khoi – a Computer Science student at the University of Information Technology (UIT), VNU-HCM.
 
+> 🎯 I’m deeply passionate about Artificial Intelligence, with the long-term goal of becoming an AI Engineer who builds innovative solutions that make a real-world impact.
+
+> 🧠 My primary interests lie in deep learning, computer vision, and reinforcement learning — areas where intelligent systems learn to perceive, reason, and act.
+
+> 💬 Recently, I’ve also been actively exploring Natural Language Processing (NLP) and Large Language Models (LLMs) — especially how LLMs are being deployed across industries to enhance productivity, creativity, and decision-making.
+
+> 🛠️ I enjoy turning theory into practice through hands-on projects, including product recommendation engines, real-time face attendance systems, and more.
+
+> 🚀 More than just coding, I believe in lifelong learning, building with purpose, and growing through collaboration with people who share a love for technology.
 ---
 
 ## 🛠️ Tech Stack
