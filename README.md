@@ -58,12 +58,7 @@
   <a href="https://github.com/KhoiBui16/catdog-classifier-inference-fastapi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=catdog-classifier-inference-fastapi&theme=radical" />
   </a>
-  <a href="https://github.com/KhoiBui16/VGG16_transfer_learning_cat_dog_classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=VGG16_transfer_learning_cat_dog_classification&theme=radical" />
-  </a>
-  <a href="https://github.com/KhoiBui16/Project_Traffic_Sign_Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Project_Traffic_Sign_Detection&theme=radical" />
-  </a>
+  
   <a href="https://github.com/KhoiBui16/Object_Detection_YOLOV1_VOC2012-From_Scratch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhoiBui16&repo=Object_Detection_YOLOV1_VOC2012-From_Scratch&theme=radical" />
   </a>
