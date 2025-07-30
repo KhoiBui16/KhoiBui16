@@ -8,10 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=140&section=header&text=Welcome%20to%20Khoi's%20World!&fontSize=30&fontAlign=50&fontColor=ffffff" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhoiBui16&style=flat-square&color=blue" alt="Visitor Counter" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
