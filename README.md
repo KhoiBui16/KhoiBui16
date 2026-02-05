@@ -1,18 +1,17 @@
 <!-- Khoi Bui | AI & Data Engineer -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Anh%20Khoi%20🚀&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Big%20Data%20%7C%20Deep%20Learning%20%7C%20LLMs&descSize=18&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Anh%20Khoi%20🚀&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Big%20Data%20%7C%20MLOps%20%7C%20LLMs%20%7C%20RL&descSize=18&descAlign=50&descAlignY=75" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎓+CS+Student+%40+UIT+-+VNUHCM;🤖+Building+AI+Systems+from+Theory+to+Production;🔥+Passionate+about+LLMs%2C+Big+Data+%26+MLOps" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+CS+Student+%40+UIT+-+VNUHCM;%F0%9F%A4%96+Building+AI+Systems+from+Theory+to+Production;%F0%9F%94%A5+Passionate+about+LLMs%2C+Big+Data+%26+MLOps" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KhoiBui16?tab=followers">
     <img src="https://img.shields.io/github/followers/KhoiBui16?label=Followers&style=for-the-badge&logo=github&color=667eea" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KhoiBui16&style=for-the-badge&color=764ba2" />
   <a href="https://github.com/KhoiBui16?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-47+-f093fb?style=for-the-badge&logo=github" />
   </a>
@@ -40,6 +39,7 @@
 - 👁️ **Computer Vision** — Face Recognition, Traffic Sign Detection
 - 📊 **Big Data** — Real-time streaming with Kafka, Spark, Airflow
 - 🔧 **MLOps** — Model deployment, monitoring with MLflow
+- 🎮 **Reinforcement Learning** — Multi-agent systems, IL/RL for detection
 
 <br>
 
@@ -269,15 +269,32 @@
 </td>
 <td width="50%">
 
-#### 📖 **ML Course Materials**
+#### 📖 **ML Final Project**
 
-**[Python for ML Course](https://github.com/KhoiBui16/UIT_CS116_LapTrinhPythonChoMayHoc)**
-<br>📚 Comprehensive ML Learning Resources from UIT course with implementations
+**[Shopping Behavior Analysis](https://github.com/KhoiBui16/UIT_CS116_LapTrinhPythonChoMayHoc/tree/main/Final_Project)**
+<br>📚 ML project analyzing shopping behavior with comprehensive pipeline
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 📊 **Algorithm Visualization**
+
+**[External File Sorting Visualizer](https://github.com/KhoiBui16/External-File-Sorting-Visualizer)**
+<br>🎨 Interactive visualization tool for external file sorting algorithms
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Algorithm-00599C?style=flat-square"/>
+</p>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
