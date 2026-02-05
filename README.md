@@ -271,20 +271,6 @@
 </td>
 <td width="50%">
 
-#### 📖 **ML Final Project**
-
-**[Shopping Behavior Analysis](https://github.com/KhoiBui16/UIT_CS116_LapTrinhPythonChoMayHoc/tree/main/Final_Project)**
-<br>📚 ML project analyzing shopping behavior with comprehensive pipeline
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 
 #### 📊 **Algorithm Visualization**
 
