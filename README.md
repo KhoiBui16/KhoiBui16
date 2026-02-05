@@ -1,7 +1,7 @@
 <!-- Khoi Bui | AI & Data Engineer -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Anh%20Khoi%20🚀&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Big%20Data%20%7C%20MLOps%20%7C%20LLMs%20%7C%20RL&descSize=18&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Welcome%20to%20Khoi's%20World!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <p align="center">
