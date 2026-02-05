@@ -201,6 +201,33 @@
 <tr>
 <td width="50%">
 
+#### 🛒 **Recommendation System**
+
+**[Product Recommender](https://github.com/KhoiBui16/Product-Recommendation-System)**
+<br>🎯 Hybrid E-commerce Recommender combining content-based, collaborative filtering & ML
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+
+#### 🌧️ **Time Series Forecasting**
+
+**[Rainfall Prediction](https://github.com/KhoiBui16/CS313-mekong-delta-rainfall-forecasting)**
+<br>🌊 Mekong Delta Rainfall Prediction using advanced time series models
+
+<p>
+<img src="https://img.shields.io/badge/Time--Series-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Forecasting-FF6F00?style=flat-square"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 #### 👁️ **Computer Vision**
 
 **[Traffic Sign Detection](https://github.com/KhoiBui16/Project_Traffic_Sign_Detection)**
@@ -230,32 +257,7 @@
 <tr>
 <td width="50%">
 
-#### 🛒 **Recommendation System**
 
-**[Product Recommender](https://github.com/KhoiBui16/Product-Recommendation-System)**
-<br>🎯 Hybrid E-commerce Recommender combining content-based, collaborative filtering & ML
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-</td>
-<td width="50%">
-
-#### 🌧️ **Time Series Forecasting**
-
-**[Rainfall Prediction](https://github.com/KhoiBui16/CS313-mekong-delta-rainfall-forecasting)**
-<br>🌊 Mekong Delta Rainfall Prediction using advanced time series models
-
-<p>
-<img src="https://img.shields.io/badge/Time--Series-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Forecasting-FF6F00?style=flat-square"/>
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 
 #### 🎨 **Algorithm Visualization**
 
